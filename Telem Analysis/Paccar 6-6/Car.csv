@@ -1,0 +1,2 @@
+mass,sprung,weight_dist_f,front_track,rear_track,wheelbase,cg_height,imux_offset,imuy_offset,imuz_offset,lvdt_conversion,front_mr,rear_mr,front_rate,rear_rate,damping_ratio,roll_gradient,pitch_gradient,FR_corner_weight,FL_corner_weight,RR_corner_weight,RL_corner_weight
+237.6,205,0.52,1.26,1.2,1.535,0.25,-0.41052,0.09132,0.07221,1.50E-05,0.869565217,1,43775,52530,0.7,0.38,0.34,63.94557823,63.49206349,54.42176871,55.78231293
